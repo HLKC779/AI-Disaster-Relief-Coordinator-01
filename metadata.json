@@ -1,0 +1,8 @@
+{
+  "name": "AI Disaster Relief Coordinator 01",
+  "description": "An AI-powered application that leverages social network data, Google Maps, and real-time information to identify and prioritize disaster relief efforts worldwide. It helps locate individuals in need during floods, hurricanes, blizzards, and other natural disasters, providing actionable data for rescue teams.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
